@@ -1,0 +1,12 @@
+# Ignore everything
+*
+# Except for these files
+!.gitignore
+!filewriter
+!cs50example/*
+!package.json
+!map-example.html
+!Makefile
+!header.txt
+!footer.txt
+!makemap.js
